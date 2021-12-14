@@ -37,6 +37,7 @@ Vagrant.configure("2") do |config|
     export PATH=$PATH:/usr/local/go/bin
     go version 
 
+
     
     # install unzip
     #sudo zypper --non-interactive install unzip
