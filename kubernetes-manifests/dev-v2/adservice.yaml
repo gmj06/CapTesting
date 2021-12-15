@@ -16,7 +16,7 @@ spec:
       terminationGracePeriodSeconds: 5
       containers:
       - name: server
-        image: gmj06/adservice-v2:sha-087f418
+        image: gmj06/adservice-v2:sha-374a0aa
         ports:
         - containerPort: 9556
         env:
